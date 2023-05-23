@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan Queen
-- 👀 I’m interested in Computer Processors and Operating Systems
-- 🌱 I’m currently learning about Computer Networks
+- 👀 I’m interested in Computer Processors, Operating Systems, Cyber Security, and Embedded Systems
+- 🌱 I’m currently learning about Operating Systems and reading about RTOS
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me, my discord is BlackDragon#5960
 
